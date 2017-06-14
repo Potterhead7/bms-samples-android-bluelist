@@ -1,6 +1,6 @@
 applications:
-- name: mobilefirst
-  host: mobilefirst
+- name: Smart Umbrella 2017
+  host: Smart-Umbrella-2017
   disk_quota: 1024M
   command: node app.js
   path: .
